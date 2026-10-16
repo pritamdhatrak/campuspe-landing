@@ -1,0 +1,3 @@
+@import "./landing.css";
+
+.container { composes: container; }
